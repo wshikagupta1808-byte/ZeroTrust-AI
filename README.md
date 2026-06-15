@@ -1,7 +1,9 @@
 ## ZeroTrust AI – Identity Document Fraud Detection System
 
 Hackathon-ready identity document fraud detection demo that combines **OCR**, **image forensics**, and a **deep learning classifier** to produce a single, explainable **fraud score**.
-
+## Contributors 
+- Vanshika Gupta
+-Shrey Krishnatray
 ### Project overview
 
 - **Goal**: Detect forged/manipulated identity document images and return a clear result for operators/judges.
